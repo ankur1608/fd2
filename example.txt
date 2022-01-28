@@ -1,1 +1,2 @@
 example file
+Hi, I am next line
